@@ -10,7 +10,6 @@ and the positive windows identified in a given NP.
 
 #pylint: disable=invalid-name,too-many-arguments,too-many-locals
 
-import numpy as np
 import pandas as pd
 from .utils import DelayedImportError
 
